@@ -1,4 +1,0 @@
-Download the image“Ubuntu” & launch the container from it in detached mode 
-The name of the container should be “Ubuntu” 
-Create a directory of the name “DCA” on a base system and attach it to the container  
-Run the date command in the container without attaching it.
